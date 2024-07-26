@@ -1,2 +1,2 @@
-new to web develompment. currently using The Odin Project to guide myself.
-i used to be a C++ and python dev.
+all repositories are private(for now).
+i do html, css, js, python, c++, and c#
