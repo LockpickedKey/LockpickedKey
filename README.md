@@ -1,2 +1,1 @@
-all repositories are private(for now).
-i do html, css, js, python, c++, and c#
+If you've got an interesting idea, there's a good chance I'll want to build it.
